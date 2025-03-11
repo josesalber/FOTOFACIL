@@ -10,6 +10,8 @@ Este proyecto es una aplicación diseñada para permitir a los usuarios capturar
 
 ## Requisitos del Sistema
 - ANDROID 10
+- 25 mb espacio libre
+- 2 GB RAM
 
 ## Instalación
 1. DESCARGAR E INSTALAR EL APK
